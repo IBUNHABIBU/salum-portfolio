@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Ruby on Rails
           </ListParagraph>
         </ListContainer>
       </ListItem>
