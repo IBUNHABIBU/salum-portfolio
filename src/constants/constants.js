@@ -1,14 +1,5 @@
 export const projects = [
   {
-    title: 'Grid app',
-    description: "The project to design custom made grid-based framework using CSS Grid.",
-      image: '/images/gridhome.png',
-      tags: ['CSS Grid'],
-    source: 'https://github.com/IBUNHABIBU/GRID-FRAMEWORK',
-    visit: 'https://rawcdn.githack.com/IBUNHABIBU/GRID-FRAMEWORK/44ef6cc3f2ca5cede15c1865492901b6c4c680b4/index.html',
-    id: 0,
-  },
-  {
     title: 'Life Style Article',
     description:"In this project users will be posting their articles with background images and ability to vote for a good article and the most voted article is placed on the front page with the big Image.",
     image: '/images/Homepage.png',
@@ -17,6 +8,16 @@ export const projects = [
     visit: 'https://lifestylearticle.herokuapp.com/',
     id: 1,
   },
+  {
+    title: 'Grid app',
+    description: "The project to design custom made grid-based framework using CSS Grid.",
+      image: '/images/gridhome.png',
+      tags: ['CSS Grid'],
+    source: 'https://github.com/IBUNHABIBU/GRID-FRAMEWORK',
+    visit: 'https://rawcdn.githack.com/IBUNHABIBU/GRID-FRAMEWORK/44ef6cc3f2ca5cede15c1865492901b6c4c680b4/index.html',
+    id: 0,
+  },
+  
   {
     title: 'Newsweek Web Clone',
     description: "This is a clone of the newsweek website.",
