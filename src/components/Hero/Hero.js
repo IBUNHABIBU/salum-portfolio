@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        My name is Salum Habibu and I a full-stack remote software developer.
+        My name is Salum Habibu and I am a full-stack remote software developer.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
