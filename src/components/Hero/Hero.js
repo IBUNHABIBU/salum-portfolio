@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         My name is Salum Habibu and I am a full-stack remote software developer.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+//         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
