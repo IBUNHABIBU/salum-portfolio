@@ -15,7 +15,6 @@ const Hero = (props) => (
         <SectionText>
         My name is Salum Habibu and I am a full-stack remote software developer.
         </SectionText>
-
       </LeftSection>
     </Section>
   </>
