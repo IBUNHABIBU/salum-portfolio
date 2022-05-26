@@ -23,8 +23,8 @@ export const projects = [
     description: "This is a clone of the newsweek website.",
       image: '/images/newsweekhome.png',
       tags: ['HTML', 'CSS'],
-    source: '#',
-    visit: '#',
+    source: 'https://github.com/IBUNHABIBU/Bootstrap-Project',
+    visit: 'https://raw.githack.com/IBUNHABIBU/Bootstrap-Project/master/index.html',
     id: 2,
   },
   {
