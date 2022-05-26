@@ -51,7 +51,7 @@ export const projects = [
     image: '/images/weather.png',
     tags: ['Javascript', 'Webpack', 'OpenWeatherAPI'],
     source: 'https://github.com/IBUNHABIBU/weather-app',
-    visit: 'https://google.com',
+    visit: 'https://ibunhabibuweather.netlify.app/',
     id: 5,
   },
 ];
