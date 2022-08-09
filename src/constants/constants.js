@@ -1,12 +1,13 @@
 export const projects = [
+  
   {
-    title: 'Life Style Article',
-    description:"In this project users will be posting their articles with background images and ability to vote for a good article and the most voted article is placed on the front page with the big Image.",
-    image: '/images/Homepage.png',
-    tags: ['Ruby on rails', 'RSpec'],
-    source: 'https://github.com/IBUNHABIBU/lifestyle_articles',
-    visit: 'https://lifestylearticle.herokuapp.com/',
-    id: 1,
+    title: 'Recipes App',
+    description: "A browsable list of items that you can filter and access to the details of one item. All data are meals recipes that come from TheMealDb API",
+    image: '/images/recipes.png',
+    tags: ['React', 'Redux'],
+    source: 'https://github.com/IBUNHABIBU/catalogue_of_recipes',
+    visit: 'https://slm-foodrecipe.herokuapp.com/',
+    id: 3,
   },
   {
     title: 'ATown Car Rental',
@@ -17,7 +18,15 @@ export const projects = [
     visit: 'https://salu-final-capstone.herokuapp.com/',
     id: 0,
   },
-  
+  {
+    title: 'Life Style Article',
+    description:"In this project users will be posting their articles with background images and ability to vote for a good article and the most voted article is placed on the front page with the big Image.",
+    image: '/images/Homepage.png',
+    tags: ['Ruby on rails', 'RSpec'],
+    source: 'https://github.com/IBUNHABIBU/lifestyle_articles',
+    visit: 'https://lifestylearticle.herokuapp.com/',
+    id: 1,
+  },
   {
     title: 'Newsweek Web Clone',
     description: "This is a clone of the newsweek website.",
@@ -26,15 +35,6 @@ export const projects = [
     source: 'https://github.com/IBUNHABIBU/Bootstrap-Project',
     visit: 'https://raw.githack.com/IBUNHABIBU/Bootstrap-Project/master/index.html',
     id: 2,
-  },
-  {
-    title: 'Recipes App',
-    description: "A browsable list of items that you can filter and access to the details of one item. All data are meals recipes that come from TheMealDb API",
-    image: '/images/recipes.png',
-    tags: ['React', 'Redux'],
-    source: 'https://github.com/IBUNHABIBU/catalogue_of_recipes',
-    visit: 'https://slm-foodrecipe.herokuapp.com/',
-    id: 3,
   },
   {
     title: 'Social app',
