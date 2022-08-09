@@ -9,12 +9,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Grid app',
-    description: "The project to design custom made grid-based framework using CSS Grid.",
-      image: '/images/gridhome.png',
-      tags: ['CSS Grid'],
-    source: 'https://github.com/IBUNHABIBU/GRID-FRAMEWORK',
-    visit: 'https://rawcdn.githack.com/IBUNHABIBU/GRID-FRAMEWORK/44ef6cc3f2ca5cede15c1865492901b6c4c680b4/index.html',
+    title: 'ATown Car Rental',
+    description: "A car rental application that allows users to rent a car and also allows users to see the car's availability.",
+      image: '/images/carRental.png',
+      tags: ['REST API', 'Ruby on rails'],
+    source: 'https://github.com/IBUNHABIBU/final-capstone',
+    visit: 'https://salu-final-capstone.herokuapp.com/',
     id: 0,
   },
   
