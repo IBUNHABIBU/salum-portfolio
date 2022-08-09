@@ -13,7 +13,7 @@ export const projects = [
     title: 'ATown Car Rental',
     description: "A car rental application that allows users to rent a car and also allows users to see the car's availability.",
       image: '/images/carRental.PNG',
-      tags: ['REST API', 'Ruby on rails'],
+      tags: ['REST API', 'Ruby on rails', 'React'],
     source: 'https://github.com/IBUNHABIBU/final-capstone',
     visit: 'https://salu-final-capstone.herokuapp.com/',
     id: 0,
