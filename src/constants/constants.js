@@ -32,7 +32,7 @@ export const projects = [
     description: "A browsable list of items that you can filter and access to the details of one item. All data are meals recipes that come from TheMealDb API",
     image: '/images/recipes.png',
     tags: ['React', 'Redux'],
-    source: 'https://https://github.com/IBUNHABIBU/catalogue_of_recipes',
+    source: 'https://github.com/IBUNHABIBU/catalogue_of_recipes',
     visit: 'https://slm-foodrecipe.herokuapp.com/',
     id: 3,
   },
